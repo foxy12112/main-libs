@@ -1,0 +1,9 @@
+[submodule "libft"]
+	path = libft
+	url = https://github.com/foxy12112/libft.git
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/foxy12112/ft_printf.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/foxy12112/get_next_line.git
