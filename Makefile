@@ -6,7 +6,7 @@
 #    By: ldick <ldick@student.42.fr>                +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/04/16 13:48:55 by ldick             #+#    #+#              #
-#    Updated: 2024/12/21 12:17:02 by ldick            ###   ########.fr        #
+#    Updated: 2024/12/22 13:58:14 by ldick            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -24,7 +24,7 @@ LIBFTSRCS =	ft_atoi.c ft_atodbl.c ft_strcmp.c ft_bzero.c ft_calloc.c ft_isalnum.
 			ft_putendl_fd.c ft_putnbr_fd.c ft_putstr_fd.c ft_split.c ft_strchr.c \
 			ft_strdup.c ft_striteri.c ft_strjoin.c ft_strlcat.c ft_strlcpy.c ft_strlen.c ft_strmapi.c\
 			ft_strncmp.c ft_strnstr.c ft_strrchr.c ft_strtrim.c ft_substr.c \
-			ft_tolower.c ft_toupper.c ft_strlen_s.c ft_wordconut.c ft_atol.c ft_strcat.c
+			ft_tolower.c ft_toupper.c ft_strlen_s.c ft_wordconut.c ft_atol.c ft_strcat.c ft_strncpy.c
 
 PRINTFSRCS =ft_print_char.c\
             ft_print_hex_lower.c\
